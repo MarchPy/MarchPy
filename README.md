@@ -13,7 +13,9 @@
   <img align="center" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img align="center" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 </div>
-  
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=marchpy&bg_color=000000&color=ffffff&line=ffd700&point=ffffff&area=true&hide_border=true)
+
 ##
   
 <div> 
