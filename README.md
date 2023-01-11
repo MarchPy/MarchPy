@@ -3,8 +3,12 @@
 
 <h3 align="left">Social:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jo%c3%a3o-pedro-alexandre-marchiori-087648184/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jo%c3%a3o-pedro-alexandre-marchiori-087648184/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17256829/marchpy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17256829/marchpy" height="30" width="40" /></a>
+ 
+<a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-alexandre-marchiori-087648184/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:joaomarchiori.jopa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
+<a href="https://stackoverflow.com/users/17256829/marchpy" target="_blank"><img src="https://img.shields.io/badge/-stackoverflow-4F4F4F?style=for-the-badge&logo=stackoverflow&logoColor=white" target="_blank"></a>
+
+
 </p>
 
 <h3 align="left">Linguagens e ferramentas:</h3>
