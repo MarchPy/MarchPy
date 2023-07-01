@@ -1,5 +1,4 @@
-<h1 align="center">Olá 👋, Eu sou o João Pedro</h1>
-<h3 align="center">Apaixonado pela tecnologia</h3>
+<h1 align="center">👋 Hello World, eu sou o João Pedro 🌎</h1>
 
 
 
