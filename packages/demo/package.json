@@ -1,0 +1,26 @@
+{
+  "name": "@snk/demo",
+  "version": "1.0.0",
+  "dependencies": {
+    "@snk/action": "1.0.0",
+    "@snk/draw": "1.0.0",
+    "@snk/github-user-contribution": "1.0.0",
+    "@snk/solver": "1.0.0",
+    "@snk/svg-creator": "1.0.0",
+    "@snk/types": "1.0.0"
+  },
+  "devDependencies": {
+    "@types/dat.gui": "0.7.7",
+    "dat.gui": "0.7.9",
+    "html-webpack-plugin": "5.5.0",
+    "ts-loader": "9.4.1",
+    "ts-node": "10.9.1",
+    "webpack": "5.75.0",
+    "webpack-cli": "5.0.1",
+    "webpack-dev-server": "4.11.1"
+  },
+  "scripts": {
+    "build": "webpack",
+    "dev": "webpack serve"
+  }
+}
