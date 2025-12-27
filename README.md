@@ -1,11 +1,6 @@
 # 👋 Hello World, eu sou o João Pedro 🌎
 
 
-<div>
-  <a href="https://github.com/MarchPy">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marchpy&layout=compact&langs_count=7&theme=tokyonight"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=marchpy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
 <div style="display: inline_block"><br>
   <img height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
